@@ -1,0 +1,16 @@
+#container{
+    font-family: 'Montserrat', sans-serif; 
+    text-align: left;
+
+    margin-top: 15px;
+}
+
+h5{
+    font-family: 'Montserrat', sans-serif; 
+}
+
+.recipe{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 20px;
+    color: black;
+}

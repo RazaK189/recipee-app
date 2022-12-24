@@ -1,0 +1,28 @@
+.name{
+    font-family: 'Montserrat', sans-serif; 
+    font-size: 50px;
+    text-align: center;
+}
+
+.ingredients{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.steps{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.Nutrtion{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
